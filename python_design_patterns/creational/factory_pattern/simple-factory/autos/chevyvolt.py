@@ -6,4 +6,6 @@ class ChevyVolt(AbsAuto):
         print(f"The American Bull: Chevy Volt {2:c} prances into action")
 
     def stop(self):
-        print(f"The American Bull: Chevy Volt {2:c} comes to a screeching halt!!")
+        print(
+            f"The American Bull: Chevy Volt {2:c} comes to a screeching halt!!"
+        )

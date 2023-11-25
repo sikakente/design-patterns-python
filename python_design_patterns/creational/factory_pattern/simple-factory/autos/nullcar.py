@@ -2,7 +2,6 @@ from .abs_auto import AbsAuto
 
 
 class NullCar(AbsAuto):
-    
     def __init__(self, name) -> None:
         self._carname = name
 

@@ -1,6 +1,6 @@
 from autofactory import AutoFactory
 
-carnames = ['MaseratiLevante', 'ChevyVolt', 'MercedesSClass']
+carnames = ["MaseratiLevante", "ChevyVolt", "MercedesSClass"]
 
 factory = AutoFactory()
 

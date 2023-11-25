@@ -2,7 +2,6 @@ import abc
 
 
 class AbsAuto(abc.ABC):
-
     @abc.abstractmethod
     def start(self):
         raise NotImplementedError()
